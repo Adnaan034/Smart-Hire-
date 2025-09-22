@@ -33,7 +33,10 @@ Smart Hire is an intelligent recruitment system designed to analyze candidate pr
 💡 Provided clear insights for HR decisions and recruitment strategy
 
 - visuals(<img width="989" height="827" alt="Image" src="https://github.com/user-attachments/assets/c5d8d863-316a-48ed-b8bb-7ac90313265a" />)
-- 
+#### Before Balancing visual
+- <img width="1107" height="910" alt="Image" src="https://github.com/user-attachments/assets/26a2f072-5afb-4da0-8e08-0dedfcc5ee19" />
+#### After Balanced Visual
+<img width="1182" height="810" alt="Image" src="https://github.com/user-attachments/assets/7ec4bf99-2641-4c69-b5b1-838e2ffe52b1" />
 
 ### 4️⃣ Modeling & Prediction
 
